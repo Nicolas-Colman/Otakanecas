@@ -107,6 +107,7 @@
 <nav>
     <a href="index.php">Catálogo</a>
     <a href="nos.php">Quem Somos</a>
+    <a href="personalize.php">Personalize</a>
 </nav>
 
 <main>
